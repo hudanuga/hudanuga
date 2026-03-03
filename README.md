@@ -1,2 +1,2 @@
-# Techwriter-s-practice
+# Hudanuga
 This repository is for my first instructions.
