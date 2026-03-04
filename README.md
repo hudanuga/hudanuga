@@ -7,7 +7,7 @@ Hey, guys! I'm Anna
 Interested in stucturing information and technical documentation. 
 - I enjoy talking about complex topics in simple words.
 
-## Contacts
+## You can reach me at
 Telegram: @hudanuga
 
 Email: anaymochalova@gmail.com
