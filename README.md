@@ -3,9 +3,9 @@ Hey, guys! I'm Anna
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-I'm an aspiring technical writer 
+- I'm an aspiring technical writer 
 Interested in stucturing information and technical documentation. 
-I enjoy talking about complex topics in simple words.
+- I enjoy talking about complex topics in simple words.
 
 ## Contacts
 Telegram: @hudanuga
