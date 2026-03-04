@@ -1,5 +1,5 @@
 <h1 lign="center">
-Hey, guys! I'm Anna 
+Hi there, I'm Anna!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -21,4 +21,4 @@ Email: anaymochalova@gmail.com
 ## Languages
 - Mother tongue - Russian
 - English B2+
-- Currently I'm learning Chineese 
+- Currently learning Chinese 
