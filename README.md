@@ -4,10 +4,12 @@ Hey, guys! I'm Anna
 </h1>
 
 I'm an aspiring technical writer 
-Interested in stucturing information and technical documentation. I enjoy talking about complex topics in simple words.
+Interested in stucturing information and technical documentation. 
+I enjoy talking about complex topics in simple words.
 
 ## Contacts
 Telegram: @hudanuga
+
 Email: anaymochalova@gmail.com
 
 ## Skills
